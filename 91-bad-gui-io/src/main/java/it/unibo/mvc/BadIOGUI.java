@@ -78,6 +78,7 @@ public class BadIOGUI {
                 }
             }
         );
+     
         read.addActionListener(
             new ActionListener() {
                 @Override
